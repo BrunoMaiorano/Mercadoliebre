@@ -12,11 +12,16 @@ Descripciones: 16px
 Iconos tamaño: 2em & margen inferior:  10
 */
 
+*{
+    box-sizing: border-box;
+}
+
 body{
     font-family:'Roboto', sans-serif;;
     background-color: #ebebeb;
     width: 100vw;
     height: 100vh;
+    margin: 0;
 }
 
 main{
