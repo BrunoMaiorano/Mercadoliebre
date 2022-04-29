@@ -24,7 +24,7 @@ main{
     margin: 0 auto;
 }
 
-/*Todo header */
+/*Todo Header */
 
 header{
     background-color: #EAC926;
@@ -49,7 +49,7 @@ header{
 .botonera{
     text-align: none;
     color: #222222;
-    display: inline-block; /* esto tambien*/
+    display: inline-block; 
     padding: 5px 0;
     font-size: 17px;
 }
@@ -118,7 +118,7 @@ p{
 /*Todo Main*/
 
 section{
-    display: flex; /* esto averiguar*/
+    display: flex; 
     flex-wrap: wrap;
 }
 
@@ -218,8 +218,7 @@ footer .fas {
 }
 
 
-/*aver que con esto*/
-/* Tablet */
+
 @media (min-width: 361px) {
     article {
         box-shadow: 0px 0px 10px rgb(100, 100, 100);
@@ -252,8 +251,6 @@ footer .fas {
         width: calc(25% - 16px);
     }
 
-    /*La descripcion se tiene que ver en mobile y en el resto NO,- corregir*/
-    /* .descripcion-item h3, */
     .botonera {
         display: flex;
         justify-content: space-between;
@@ -313,7 +310,7 @@ footer .fas {
 
 }
 
-/*ENORMES*/
+
 @media (min-width: 1260px) {
     header {
         max-width: 1200px;
