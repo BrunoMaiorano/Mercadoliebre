@@ -8,7 +8,7 @@ const publicPath = path.resolve(__dirname, './public')
 app.use(express.static(publicPath));
 
 app.listen(3050, function(){
-    console.log('servidor corriendo');
+    console.log("Servidor corriendo en http://localhost:3050");
 });
 
 app.get('/', function(req, res){

@@ -146,6 +146,8 @@ article{
     flex-grow: 0.3; 
     font-size: 18px;
     margin-left: 10px;
+    width: 30vw;
+    padding-right: 0.5vw;
 }
 
 
@@ -172,6 +174,7 @@ article{
     font-size: 16px;
     align-self: center;
     margin: 0;
+    width: 70vw;
     color: #39b54a;
 }
 
