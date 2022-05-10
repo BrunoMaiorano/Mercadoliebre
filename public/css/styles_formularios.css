@@ -46,13 +46,6 @@ h2 {
 	background-color: #0022aa;
 }
 
-.login-footer {
-	position: absolute;
-	width: 100%;
-	bottom: 0;
-}
-
-
 .main_perfiles {
 	display: flex;
 	justify-content: space-around;
