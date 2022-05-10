@@ -148,6 +148,7 @@ article{
     margin-left: 10px;
     width: 30vw;
     padding-right: 0.5vw;
+    font-size: 18px;
 }
 
 
@@ -155,6 +156,7 @@ article{
     border-top: solid 1px #ebebeb;
     padding: 15px;
     position: relative;
+    font-size: 16px;
 }
 
 .imagen_producto{
@@ -200,6 +202,7 @@ main .fas {
     transition: transform 1s;
 
 }
+
 
 /*Todo footer*/
 
