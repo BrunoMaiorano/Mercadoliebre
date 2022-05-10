@@ -1,16 +1,6 @@
 * {
 	box-sizing: border-box;
 }
-:root {
-	--amarillo: #eac926;
-	--azul: #03264c;
-	--celeste: #1259c3;
-	--gris_oscuro: #666;
-	--gris_claro: #ebebeb;
-	--verde: #39b54a;
-	--body-font-size: 12px;
-
-}
 
 .main_contenido {
 	width: 90%;
@@ -71,7 +61,7 @@ form button {
 	height: 3rem;
 	border-radius: 5px;
 	text-align: center;
-	background-color: var(--celeste);
+	background-color: #1259c3;
 	width: 100%;
 	color: white;
 	
